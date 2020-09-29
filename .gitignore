@@ -1,2 +1,5 @@
 .idea/
 out/
+*.js
+
+# Comments can be added in a gitignore file using hash
