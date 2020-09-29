@@ -8,5 +8,6 @@ public class Apple {
     public void printFunctionForBr1FromMasterBranch(){
         System.out.println("This is printFunction is to signify some code change in 'br1FromMaster' branch");
         System.out.println("New change in branch 'br1FromMaster' branch");
+        System.out.println("Using this change for learning how to use command 'git add .'");
     }
 }
