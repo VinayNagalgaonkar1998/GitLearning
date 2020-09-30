@@ -10,5 +10,6 @@ public class Apple {
         System.out.println("New change in branch 'br1FromMaster' branch");
         System.out.println("Using this change for learning how to use command 'git add .'");
         System.out.println("Some new change made in branch 'br1FromMaster' which are staged, but uncommitted");
+        System.out.println("Some new change made (part2) in branch 'br1FromMaster' which are staged, but uncommitted");
     }
 }
