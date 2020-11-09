@@ -97,7 +97,7 @@ to reapply previously stashed changes
 18. **git reset HEAD~**  
 Description - git reset command is a powerful command that is used to undo local changes to the state 
 of a git repo. HEAD~ extension will take us back to one commit behind. It is equivalent to 
-git reset HEAD~1 and git reset HEAD~n will take us ’n’ commits behind 
+git reset HEAD\~1 and git reset HEAD\~n will take us ’n’ commits behind 
 
 19. **git rebase --continue**  
 Description - Rebase is one of two Git utilities that specialises in integrating changes from one 
