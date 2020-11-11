@@ -11,5 +11,7 @@ public class Apple {
         System.out.println("Using this change for learning how to use command 'git add .'");
         System.out.println("Some new change made in branch 'br1FromMaster' which are staged, but uncommitted");
         System.out.println("Some new change made (part2) in branch 'br1FromMaster' which are staged, but uncommitted");
+        // Commenting to make a redundant commit namely "redundant commit 1"
+        // Commenting to make a redundant commit namely "redundant commit 2"
     }
 }
